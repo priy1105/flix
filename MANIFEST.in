@@ -1,0 +1,2 @@
+recursive-include fleetdesk_lite_ui/frontend/build *
+include pyproject.toml
